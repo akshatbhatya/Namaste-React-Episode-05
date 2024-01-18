@@ -1,0 +1,13 @@
+.card_image > img{
+    width:100%;
+
+}
+
+.card{
+    margin: 20px;
+    display: inline-block;
+    background: #c7d3cd;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
