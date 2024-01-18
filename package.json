@@ -1,0 +1,19 @@
+{
+  "name": "namaste-react-episode-05",
+  "version": "1.0.0",
+  "description": "lerning hooks ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "htttps://github.com/akshatbhatya/Namaste-React-Episode-05.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "akshat",
+  "license": "ISC"
+}
