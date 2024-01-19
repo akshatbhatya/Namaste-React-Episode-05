@@ -1,9 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 import "./Product.css"
 import { CDN_URL } from '../../Utils/Constants'
 
 
 function Product({card}) {
+
+  let {product,setProduct}=useState(card?.card.card.info);
   const {cloudinaryImageId,locality,name,areaName,cuisines,avgRating,costForTwo}=card?.card.card.info
   return (
     <div className='card'>

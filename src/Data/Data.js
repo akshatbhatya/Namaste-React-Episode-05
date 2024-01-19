@@ -547,6 +547,3 @@ export const Data=[{
         }
       },]
 
-{
-    console.log(Data[0].card.card.info);
-}
